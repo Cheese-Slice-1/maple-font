@@ -22,7 +22,7 @@
   "feature_freeze": {
     "cv01": "ignore",
     "cv02": "ignore",
-    "cv03": "ignore",
+    "cv03": "enable",
     "cv04": "ignore",
     "cv05": "ignore",
     "cv06": "ignore",
